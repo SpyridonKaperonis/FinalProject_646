@@ -2,11 +2,8 @@
 
 ### Using machine learning algorithms to recognize sign language.
 
-<div style="display:flex flexDirection:row" markdown=1>
 
 <img src='./datasets/archive/american_sign_language.png' alt='sign language' 
-width='300' />
+width='300' /> | <img src='./datasets/archive/amer_sign3.png' alt='sign language' width='300'/>
 
-<img src='./datasets/archive/amer_sign3.png' alt='sign language' width='300'/>
 
-</div>
