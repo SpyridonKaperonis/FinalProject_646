@@ -25,9 +25,13 @@ width='300' /> | <img src='./datasets/archive/amer_sign3.png' alt='sign language
 
 - Manhattan distance
 
-<img src='./images/manhattanDistancegraph.png' alt='grapg' width='300' /> | 
-<img src='./images/manhattanDistanceResults.png' alt='results' width='300' />
+<img src='./images/manhattanDistancegraph.png' alt='manhattan grapg' width='300' /> | 
+<img src='./images/manhattanDistanceResults.png' alt='manhattan results' width='300' />
 
+- Euclidean distance
+
+<img src='./images/euclideanDistancegraph.png' alt='euclidean graph' width='300' /> |
+<img src='./images/euclideanDistanceResults.png' alt='euclidean results' width='300' />
 - CNN
 - SVM
 
