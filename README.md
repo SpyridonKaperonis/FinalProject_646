@@ -19,6 +19,15 @@ width='300' /> | <img src='./datasets/archive/amer_sign3.png' alt='sign language
 ### Algorithms
 
 - kNN
+1. **Standard Scaler**. Standardize features by removing the mean and scaling to unit variance. 
+2. **kNN algorithm**. Implement kNN using different distance metrics and different number of k-nearest neighbors. 
+3. **Training**
+
+- Manhattan distance
+
+<img src='./images/manhattanDistancegraph.png' alt='grapg' width='300' /> | 
+<img src='./images/manhattanDistanceResults.png' alt='results' width='300' />
+
 - CNN
 - SVM
 
