@@ -32,11 +32,12 @@ width='300' /> | <img src='./datasets/archive/amer_sign3.png' alt='sign language
 
 <img src='./images/euclideanDistancegraph.png' alt='euclidean graph' width='300' /> |
 <img src='./images/euclideanDistanceResults.png' alt='euclidean results' width='300' />
-- CNN
+
+- SVM
 
 <img src='./images/svmGraph.png' alt='support vector machine graph' width='300' />
 
-- SVM
+- CNN
 
 <img src='./images/cnnGraph.png' alt='convolutional neural network graph' width='300' />
 
